@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SafeMetric – AI Powered Legal Metrology Compliance System
 
 Please refer to the complete system documentation, architecture diagrams, and run guides in:
@@ -27,3 +28,6 @@ npx expo start
 #### Demo Officer Credentials:
 - **Email:** `officer@safemetric.gov.in`
 - **Password:** `password123`
+=======
+# Legal_metrology
+>>>>>>> 937038ee6bbf94853b894c3a91359742ee6d8571
